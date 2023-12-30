@@ -1,0 +1,22 @@
+Oracle relies a lot on core Java for a ton of reasons, including:
+
+Performance: Java is compiled before it runs, so the bytecode in Java becomes native machine code as soon as it’s executed. The end result is something that performs very well. And that’s important for Oracle’s enterprise software products such as Oracle Database and Fusion Middleware.
+
+Portability: This is a way of saying that their software can run on almost anything that has a Java Virtual Machine (JVM). So you can use their stuff on Windows, Linux, macOS, iOS and beyond.
+
+Robustness: With features like garbage collection and exception handling, Java has proven to be a reliable language. If any problems occur, chances are they won’t crash or produce errors because mission-critical work doesn’t have time for that.
+
+Scalability: When you get to the size of some of the largest companies in the world it’s important to have software scale as more people use it and more transactions occur. That’s why Java applications can do this effortlessly.
+
+Also,
+
+
+Oracle Database: Java is a popular programming language and for good reason. Oracle Database uses it to perform a variety of functions, including stored procedures, user-defined functions, and JDBC. You can even find Java in Oracle Enterprise Manager, which helps you manage your Oracle databases.
+
+Oracle Fusion Middleware: This set of products provide middleware services for Java apps. They even have additional features like application servers, messaging, and portals.
+
+Oracle Cloud Infrastructure (OCI): OCI is an essential part of cloud computing platforms. It has everything a developer could need when working with Java. The platform includes virtual machines, tools that make development easier, and services that help deploy Java applications.
+
+Aside from these examples, Oracle also uses core Java in their software products. A few examples are Oracle E-Business Suite, Oracle Siebel CRM, and Oracle Hyperion Enterprise Performance Management.
+
+The benefits are plentiful when using this programming language. Some of these include performance optimization, portability across different platforms and systems, scalability that allows business to grow as much as they want or need to with no limits or restrictions.
